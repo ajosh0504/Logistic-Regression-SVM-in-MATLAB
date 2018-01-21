@@ -1,4 +1,4 @@
-# Logistic Regression and SVM in MATLAB
+# Logistic Regression and SVM using liblinear and libsvm
 
 # Logistic Regression
 This project trains and tests a regularized logistic regression model on two data sets, namely the breast
