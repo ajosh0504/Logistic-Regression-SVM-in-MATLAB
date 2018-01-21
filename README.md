@@ -4,7 +4,8 @@
 This project trains and tests a regularized logistic regression model on two data sets, namely the breast
 cancer and sonar data sets which are available here: https://www.csie.ntu.edu.tw/~cjlin/
 libsvmtools/datasets/binary.html#breast-cancer and here: https://www.csie.ntu.edu.
-tw/~cjlin/libsvmtools/datasets/binary.html#sonar.
+tw/~cjlin/libsvmtools/datasets/binary.html#sonar. 
+“xxx-scale-test-indices.txt” should contain the train indices, and “xxx-scale-test-indices.txt” should contain the indices for testing.
 
 The project is divided into the following tasks:
 -Use the 5-fold cross validation method to decide the best value of the parameter C. The best C is the one that yields the lowest validation error.
